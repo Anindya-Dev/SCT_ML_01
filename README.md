@@ -38,3 +38,4 @@ pip install -r requirements.txt
 #Run the app on a localhost server.
 streamlit run app.py
 
+Hosted on streamlit - https://sctml01-hhtkvabx5gprgecdqgtojs.streamlit.app/
